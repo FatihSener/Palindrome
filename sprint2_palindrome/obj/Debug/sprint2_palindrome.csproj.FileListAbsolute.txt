@@ -1,0 +1,7 @@
+C:\Users\Fatih\Desktop\Çalışmalarım\sprint2_palindrome\sprint2_palindrome\bin\Debug\sprint2_palindrome.exe.config
+C:\Users\Fatih\Desktop\Çalışmalarım\sprint2_palindrome\sprint2_palindrome\bin\Debug\sprint2_palindrome.exe
+C:\Users\Fatih\Desktop\Çalışmalarım\sprint2_palindrome\sprint2_palindrome\bin\Debug\sprint2_palindrome.pdb
+C:\Users\Fatih\Desktop\Çalışmalarım\sprint2_palindrome\sprint2_palindrome\obj\Debug\sprint2_palindrome.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Çalışmalarım\sprint2_palindrome\sprint2_palindrome\obj\Debug\sprint2_palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Çalışmalarım\sprint2_palindrome\sprint2_palindrome\obj\Debug\sprint2_palindrome.exe
+C:\Users\Fatih\Desktop\Çalışmalarım\sprint2_palindrome\sprint2_palindrome\obj\Debug\sprint2_palindrome.pdb
